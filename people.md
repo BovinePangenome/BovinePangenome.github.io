@@ -17,6 +17,7 @@ subtitle: Project team and coordinators
 #####	Saiful Anwar	–	National Research and Innovation Agency
 #####	Carlos Arbizu	–	Instituto Nacional de Innovación Agraria
 #####	Christine Baes	–	University of Guelph
+#####	Derek Bickhart	–	Hendrix Genetics
 #####	Didier Boichard	–	INRAE
 #####	Cynthia Bottema	–	The University of Adelaide
 #####	Mekki Boussaha	–	INRAE
@@ -65,6 +66,7 @@ subtitle: Project team and coordinators
 #####	Wai Yee Low	–	The University of Adelaide
 #####	Li Ma	–	University of Maryland
 #####	Norman Maiwashe	–	Agricultural Research Council
+#####	Mahlako Makgahlela	–	Agricultural Research Council
 #####	Tamer Mansour	–	UC Davis
 #####	Raluca Mateescu	–	Florida A&M University
 #####	Matthew McClure	–	ABS Genus
@@ -94,6 +96,7 @@ subtitle: Project team and coordinators
 #####	Elizabeth Ross	–	University of Queensland
 #####	Rashid Saif	–	Decode Genomics
 #####	Robert Schnabel	–	University of Missouri
+#####	Gono Semiadi	–	National Research and Innovation Agency
 #####	Mostafa Shokrof	–	UC Davis
 #####	Johann Sölkner	–	BOKU
 #####	Albert Soudre	–	Université Norbert ZONGO
@@ -105,8 +108,10 @@ subtitle: Project team and coordinators
 #####	Alison Van Eenennaam	–	UC Davis
 #####	Curt Van Tassell	–	USDA
 #####	Este vanMarle-Koster	–	Agricultural Research Council
-#####	Alexandre Costa Varella	–	Embrapa
+#####	Alexandre Costa Varella	–	Embrapa 
+#####	Deyanira A Figueroa Vengas – National Institute of Agrarian Innovation
 #####	John Williams	–	The University of Adelaide
+#####	Mulumebet Worku	–	North Carolina Agricultural and Technical State University
 #####	Avhashoni Zwane	–	Agricultural Research Council
 
 
