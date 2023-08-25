@@ -8,7 +8,6 @@ subtitle: Project leaders and organizers
 #### Ben Rosen
 #### Tim Smith
 #### Wei Yee (Lloyd) Low
-#### Joram Mwacharo
 
 ## Steering Committee
 
