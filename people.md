@@ -13,7 +13,7 @@ subtitle: Project team and coordinators
 
 ## BPC Members and affiliations
 
-####	Paolo Ajmone Marsan	–	Università Cattolica del Sacro Cuore
+#####	Paolo Ajmone Marsan	–	Università Cattolica del Sacro Cuore
 ####	Saiful Anwar	–	National Research and Innovation Agency
 ####	Carlos Arbizu	–	Instituto Nacional de Innovación Agraria
 ####	Christine Baes	–	University of Guelph
