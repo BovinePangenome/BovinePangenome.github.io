@@ -70,7 +70,7 @@ subtitle: Project teams and members
 #####	Tamer Mansour	–	UC Davis
 #####	Raluca Mateescu	–	Florida A&M University
 #####	Matthew McClure	–	ABS Genus
-#####	Stephanie McKay	–	University of Vermont
+#####	Stephanie McKay	–	University of Missouri
 #####	Erdogan Memili	–	Mississippi State University
 #####	Sven Menčik	–	University of Zagreb
 #####	Gabor Meszaros	–	BOKU
