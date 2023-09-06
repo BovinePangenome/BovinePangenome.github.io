@@ -59,7 +59,7 @@ subtitle: Project team and coordinators
 #####	Amod Kumar	–	ICAR- National Bureau of Animal Genetic Resources (NBAGR)
 #####	Denis Larkin	–	University of London
 #####	Chuzhao Lei	–	Northwest A&F University
-#####	Alexander S Leonard	–	ETH Zurich
+#####	Alexander S Leonard	–	ETH Zürich
 #####	Heng Li	–	Harvard University
 #####	Wenli Li	–	USDA
 #####	George E Liu	–	USDA
@@ -74,7 +74,7 @@ subtitle: Project team and coordinators
 #####	Erdogan Memili	–	Mississippi State University
 #####	Sven Menčik	–	University of Zagreb
 #####	Gabor Meszaros	–	BOKU
-#####	Sotiria Milia	–	ETH Zurich
+#####	Sotiria Milia	–	ETH Zürich
 #####	Alexandru E. Mizeranschi	–	Research & Development Station for Bovine Arad
 #####	Antonio Molina Alcacia	–	CEIA3
 #####	Liam Morrison	–	Roslin Institute
@@ -85,7 +85,7 @@ subtitle: Project team and coordinators
 #####	Holly L. Neibergs	–	Washington State University
 #####	Oyekanmi Nash	–	Centre for Genomics Research and Innovations
 #####	Samuel Paiva	–	Embrapa
-#####	Hubert Pausch	–	ETH Zurich
+#####	Hubert Pausch	–	ETH Zürich
 #####	Sebastián Demyda Peyrás	–	University of La Plata
 #####	Paulene Pineda	–	The University of Adelaide
 #####	Wayne Pitchford	–	The University of Adelaide
