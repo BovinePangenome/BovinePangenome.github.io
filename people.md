@@ -1,6 +1,6 @@
 ---
-title: Members
-subtitle: Project team and coordinators
+title: The Consortium
+subtitle: Project teams and members
 ---
 
 # BPC Working Groups
@@ -11,7 +11,7 @@ subtitle: Project team and coordinators
 ## Pangenome applications to QTL/GWAS  
 ## Training sets/Outreach - ease the transition from linear reference to pangenome
 
-# BPC Members and affiliations
+# BPC members and affiliations
 
 #####	Paolo Ajmone Marsan	–	Università Cattolica del Sacro Cuore
 #####	Saiful Anwar	–	National Research and Innovation Agency
