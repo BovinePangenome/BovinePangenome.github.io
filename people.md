@@ -4,12 +4,12 @@ subtitle: Project teams and members
 ---
 
 # BPC Working Groups
-## Assembly & QC
-## Pangenome construction - methods, completeness vs computational burden
-## Variant calling/quantification -  assessing reference bias mitigation 
-## Phylogeny/introgressions -   relationships between breeds and complex rearrangements 
-## Pangenome applications to QTL/GWAS  
-## Training sets/Outreach - ease the transition from linear reference to pangenome
+## *Assembly & QC
+## *Pangenome construction - methods, completeness vs computational burden
+## *Variant calling/quantification -  assessing reference bias mitigation 
+## *Phylogeny/introgressions -   relationships between breeds and complex rearrangements 
+## *Pangenome applications to QTL/GWAS  
+## *Training sets/Outreach - ease the transition from linear reference to pangenome
 
 # BPC members and affiliations
 
