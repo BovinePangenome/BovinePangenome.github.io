@@ -3,15 +3,15 @@ title: Members
 subtitle: Project team and coordinators
 ---
 
-## BPC Working Groups
-#### Assembly & QC
-#### Pangenome construction - methods, completeness vs computational burden
-#### Variant calling/quantification -  assessing reference bias mitigation 
-#### Phylogeny/introgressions -   relationships between breeds and complex rearrangements 
-#### Pangenome applications to QTL/GWAS  
-#### Training sets/Outreach - ease the transition from linear reference to pangenome
+# BPC Working Groups
+## Assembly & QC
+## Pangenome construction - methods, completeness vs computational burden
+## Variant calling/quantification -  assessing reference bias mitigation 
+## Phylogeny/introgressions -   relationships between breeds and complex rearrangements 
+## Pangenome applications to QTL/GWAS  
+## Training sets/Outreach - ease the transition from linear reference to pangenome
 
-## BPC Members and affiliations
+# BPC Members and affiliations
 
 #####	Paolo Ajmone Marsan	–	Università Cattolica del Sacro Cuore
 #####	Saiful Anwar	–	National Research and Innovation Agency
