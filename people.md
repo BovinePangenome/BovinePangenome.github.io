@@ -110,7 +110,7 @@ subtitle: Project teams and members
 #####	Este vanMarle-Koster	–	Agricultural Research Council
 #####	Alexandre Costa Varella	–	Embrapa 
 #####	Deyanira A Figueroa Vengas – National Institute of Agrarian Innovation
-#####	John Williams	–	The University of Adelaide
+#####	John L Williams	–	Università Cattolica del Sacro Cuore / University of Adelaide
 #####	Mulumebet Worku	–	North Carolina Agricultural and Technical State University
 #####	Avhashoni Zwane	–	Agricultural Research Council
 
